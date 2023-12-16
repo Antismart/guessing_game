@@ -2,7 +2,7 @@
 
 This is a simple guessing game written in Rust. The game randomly generates a number between 1 and 100, and the player has to guess the number.
 
-## Instructions 📝
+## Instructions on Getting started 📝
 
 1. **Clone the Repository**: `git clone https://github.com/Antismart/guessing_game.git`
 2. **Navigate to the Project Directory**: `cd guessing_game`
