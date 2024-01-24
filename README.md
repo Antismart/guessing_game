@@ -5,7 +5,7 @@ This is a simple guessing game written in Rust. The game randomly generates a nu
 ## Instruction on Getting started 📝
 
 1. **Clone the Repository**: `git clone https://github.com/Antismart/guessing_game.git`
-2. **Navigate to the Project Directory**: `cd guessing_game`
+2. **Navigate to the project Directory**: `cd guessing_game`
 3. **Run the Game**: Execute `cargo run` in your terminal.
 4. **Follow the Prompts**: Once the game starts, enter your guess when prompted.
 5. **Winning**: Keep guessing until you correctly guess the number! 🎉
