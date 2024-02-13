@@ -10,7 +10,7 @@ This is a simple guessing game written in Rust. The game randomly generates a nu
 4. **Follow the Prompts**: Once the game starts, enter your guess when prompted.
 5. **Winning**: Keep guessing until you correctly guess the number! 🎉
 
-## How to Play 🕹️
+## How to  Play 🕹️
 
 The game will prompt you to enter your guess. Type in a number between 1 and 100 and press Enter. The game will provide feedback on whether your guess is too high or too low. Continue guessing until you find the correct number.
 
